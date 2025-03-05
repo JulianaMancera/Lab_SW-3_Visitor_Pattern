@@ -32,3 +32,7 @@ public class TelcoPromo {
                                    unli.showUnliCallsTextOffer(ditto.getTelcoName(), ditto.getUnliCallText()));
   }
 }
+
+`````
+### UML DIAGRAM
+![image](https://github.com/user-attachments/assets/aa295d9f-ce28-45ad-bd9d-77f861f9f140)
